@@ -1,7 +1,7 @@
-<favotits>
-<Favorite_movie="Prometheus"/>
-<Favorite_serial="Fargo"/>
-<Favorite_food="Fruits"/>
-<Favorite_season="Summer"/>
-<Favorite_country="China"/>
+<favorits>
+<favorite_movie>"Prometheus"</favorite_movie>
+<favorite_serial>"Fargo"</favorite_serial>
+<favorite_food>"Fruits"</favorite_serial>
+<favorite_season>"Summer"</favorite_serial>
+<favorite_country>"China"</favorite_serial>
 </favorits>
